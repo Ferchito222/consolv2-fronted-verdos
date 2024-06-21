@@ -24,7 +24,11 @@ export const NavbarLogin = () => {
       >
         <DialogContent>
           <Typography variant={'body2'}>
+<<<<<<< HEAD
             Registro Nominal de Vacunación Electrónica - RNVe
+=======
+            Registro Nominal de Vacunación Electrónica
+>>>>>>> newJob
           </Typography>
         </DialogContent>
       </CustomDialog>

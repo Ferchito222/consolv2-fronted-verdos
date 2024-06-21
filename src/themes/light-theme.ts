@@ -8,11 +8,16 @@ const OpenSansFont = Inter({
   weight: ['300', '400', '500', '600', '700', '800'],
   display: 'swap',
 })
+<<<<<<< HEAD
 
+=======
+//COLOR FONDO PAGINA
+>>>>>>> newJob
 export const lightTheme = createTheme({
   palette: {
     mode: 'light',
     background: {
+<<<<<<< HEAD
       default: '#eff3f6',
       paper: '#Fff',
     },
@@ -27,6 +32,27 @@ export const lightTheme = createTheme({
     },
     action: {
       active: '#757575',
+=======
+      default: '#eef6f2',
+      paper: '#Fff',
+    },
+    //COLOR CONTENEDOR letras botones
+    primary: {
+      main: '#464f58',
+    },
+    //color de cuadro de vacunas
+    secondary: {
+      //main:'#4B8FD2',
+      main:'#727f91',
+    },
+    error: {
+      main: '#BA1B1B',
+      //main: '#214f54',
+    },
+    action: {
+      active: '#757575',
+      //active: '#307265',
+>>>>>>> newJob
     },
     text: {
       primary: '#1A1A1A',

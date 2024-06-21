@@ -42,6 +42,10 @@
     "apexcharts": "3.48.0",
     "axios": "1.6.8",
     "casbin": "5.29.0",
+<<<<<<< HEAD
+=======
+    "chart.js": "^4.4.3",
+>>>>>>> newJob
     "dayjs": "1.11.10",
     "js-cookie": "3.0.5",
     "leaflet": "1.9.4",
@@ -51,6 +55,10 @@
     "notistack": "3.0.1",
     "react": "18.2.0",
     "react-apexcharts": "1.4.1",
+<<<<<<< HEAD
+=======
+    "react-chartjs-2": "^5.2.0",
+>>>>>>> newJob
     "react-dom": "18.2.0",
     "react-hook-form": "7.51.3",
     "react-jwt": "1.2.1",

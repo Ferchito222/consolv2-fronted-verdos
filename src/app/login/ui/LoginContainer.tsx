@@ -9,7 +9,11 @@ import { useRouter } from 'next/navigation'
 import { useFullScreenLoading } from '@/context/FullScreenLoadingProvider'
 import { delay } from '@/utils'
 import Image from 'next/image'
+<<<<<<< HEAD
 import imgpaipng from '/public/logo/rnve.png'
+=======
+import imgpaipng from '/public/logo/snis-login.png'
+>>>>>>> newJob
 
 const LoginContainer = () => {
   const router = useRouter()
@@ -35,7 +39,10 @@ const LoginContainer = () => {
         borderTopLeftRadius: 4,
         borderBottomRightRadius: 4,
         py: 5,
+<<<<<<< HEAD
 
+=======
+>>>>>>> newJob
         px: 3,
       }}
       elevation={0}

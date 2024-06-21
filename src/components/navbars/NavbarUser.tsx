@@ -40,7 +40,11 @@ import { Icono } from '@/components/Icono'
 import { useSidebar } from '@/context/SideBarProvider'
 import Grid from '@mui/material/Grid'
 import Image from 'next/image'
+<<<<<<< HEAD
 import rnve from '/public/logo/rnve-horizontal.png'
+=======
+import rnve from '/public/logo/snis-inicio.png'
+>>>>>>> newJob
 
 export const NavbarUser = () => {
   const [modalAyuda, setModalAyuda] = useState(false)
@@ -153,7 +157,11 @@ export const NavbarUser = () => {
       >
         <DialogContent>
           <Typography variant={'body2'} sx={{ pt: 2, pb: 2 }}>
+<<<<<<< HEAD
             Sistema de Registro Nominal de Vacunación Electrónica RNVe v. 2.0
+=======
+            Sistema de Registro Nominal
+>>>>>>> newJob
           </Typography>
         </DialogContent>
       </CustomDialog>
